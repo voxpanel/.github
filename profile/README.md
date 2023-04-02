@@ -13,7 +13,7 @@
 
 ![QrCode PIX](qrpix.png)
 
-Chave PIX: ''62a11511-f3b0-44e6-8724-e20a8df8f888''
+Chave PIX: `62a11511-f3b0-44e6-8724-e20a8df8f888`
 
 Código QRCode:
 ```
