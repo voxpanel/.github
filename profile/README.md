@@ -2,7 +2,7 @@
 
 **Aqui estão algumas ideias para você começar:**
 
-🙋‍♀️ Muito se tem o voxpanel no mercado de streaming, sendo cada um com suas gambiarras.
+🙋‍♀️ Muito se tem o voxpanel no mercado de streaming, sendo cada um com suas gambiarras. /n
 🌈 A idéia é... aproveite e estude o código. Chega que pagar rios de dinheiro em um painel desatualizado e sem suporte.
 👩‍💻 Aqui você pode compartilhar seu conhecimento, ajudar a organizar o painel e evitar perder dinheiro.
 🍿 De graça? Sim, de graça. Mas caso queira, vc pode fazer uma doação.
