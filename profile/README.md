@@ -11,7 +11,7 @@
 
 🍿 De graça? Sim, de graça. Mas caso queira, vc pode fazer uma doação
 
-![QrCode PIX](qrpix.png)
+![QrCode PIX](https://raw.githubusercontent.com/voxpanel/.github/main/profile/qrpix.png)
 
 Chave PIX: `62a11511-f3b0-44e6-8724-e20a8df8f888`
 
