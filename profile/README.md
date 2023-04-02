@@ -1,12 +1,10 @@
-## Hi there 👋
+## Olá streameiro 👋
 
-<!--
+**Aqui estão algumas ideias para você começar:**
 
-**Here are some ideas to get you started:**
+🙋‍♀️ Muito se tem o voxpanel no mercado de streaming, sendo cada um com suas gambiarras.
+🌈 A idéia é... aproveite e estude o código. Chega que pagar rios de dinheiro em um painel desatualizado e sem suporte.
+👩‍💻 Aqui você pode compartilhar seu conhecimento, ajudar a organizar o painel e evitar perder dinheiro.
+🍿 De graça? Sim, de graça. Mas caso queira, vc pode fazer uma doação.
+🧙 Lembre-se, o intuito é o opensource. Muitos vão tentar vender este mesmo painel para ganhar dinheiro fácil, no entanto, alerto... se tem muitos bugs ainda a serem corrigidos e falhas graves de segurança.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
