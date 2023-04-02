@@ -5,7 +5,7 @@
 
 🙋‍♀️ Muito se tem o voxpanel no mercado de streaming, sendo cada um com suas gambiarras. 
 
-🌈 A idéia é... aproveite e estude o código. Chega que pagar rios de dinheiro em um painel desatualizado e sem suporte.
+🌈 A idéia é... aproveite e estude o código. Chega de pagar rios de dinheiro em um painel desatualizado e sem suporte.
 
 👩‍💻 Aqui você pode compartilhar seu conhecimento, ajudar a organizar o painel e evitar perder dinheiro.
 
